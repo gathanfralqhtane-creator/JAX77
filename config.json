@@ -1,0 +1,11 @@
+
+{
+    "app_name": "HUNTER",
+    "figlet_font": "standard",
+    "name_color": "red",
+    "menu_numbers_color": "cyan",
+    "menu_text_color": "white",
+    "password": "",
+    "login_enabled": false,
+    "welcome_message": "مرحباً بك في واجهة JAX77 الفخمة"
+}
